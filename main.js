@@ -152,8 +152,8 @@ const brands = [
 ];
 let correct = 0;
 let total = 0;
-const totalDraggableItems = 5;
-const totalMatchingPairs = 5; // Should be <= totalDraggableItems
+const totalDraggableItems = 3;
+const totalMatchingPairs = 3; // Should be <= totalDraggableItems
 
 const scoreSection = document.querySelector(".score");
 const correctSpan = scoreSection.querySelector(".correct");
